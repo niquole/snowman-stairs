@@ -7,8 +7,54 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	position: relative;
 }
 
 .box .snowman {
 	font-size: 40px;
+}
+
+.step1 {
+	position: absolute;
+	border-top: dotted black 5px;
+	border-right: dotted black 5px;
+	width: 20px;
+	height: 15px;
+}
+.step2 {
+	position: absolute;
+	border-top: dotted black 5px;
+	border-right: dotted black 5px;
+	width: 20px;
+	height: 15px;
+	top: 75px;
+	left: 20px;
+}
+.step3 {
+	position: absolute;
+	border-top: dotted black 5px;
+	border-right: dotted black 5px;
+	width: 20px;
+	height: 15px;
+	top: 100px;
+	left: 40px;
+}
+
+.step4 {
+	position: absolute;
+	border-top: dotted black 5px;
+	border-right: dotted black 5px;
+	width: 20px;
+	height: 15px;
+	top: 125px;
+	left: 60px;
+}
+.step5 {
+	position: absolute;
+	border-top: dotted black 5px;
+	border-right: dotted black 5px;
+	width: 20px;
+	height: 15px;
+	top: 150px;
+	left: 80px;
 }
