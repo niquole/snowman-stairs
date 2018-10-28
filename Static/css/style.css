@@ -7,8 +7,49 @@ body {
 	width: 600px;
 	border: 1px solid black;
 	margin: 0 auto;
+	position: static;
 }
 
 .box .snowman {
 	font-size: 40px;
+	position: static;
+}
+
+.step1 {
+	border-top: 5px dotted purple;
+	border-right: 5px dotted purple;
+	width: 30px;
+	height: 20px;
+}
+
+.step2 {
+	border-top: 5px dotted purple;
+	border-right: 5px dotted purple;
+	width: 30px;
+	height: 20px;
+	margin-left: 30px;
+}
+
+.step3 {
+	border-top: 5px dotted purple;
+	border-right: 5px dotted purple;
+	width: 30px;
+	height: 20px;
+	margin-left: 60px;
+}
+
+.step4 {
+	border-top: 5px dotted purple;
+	border-right: 5px dotted purple;
+	width: 30px;
+	height: 20px;
+	margin-left: 90px;
+}
+
+.step5 {
+	border-top: 5px dotted purple;
+	border-right: 5px dotted purple;
+	width: 30px;
+	height: 20px;
+	margin-left: 120px;
 }
